@@ -4,7 +4,8 @@
 
 ![db-schema]
 
-[db-schema]: 
+[db-schema]: ![DBD for Airbnb](https://github.com/user-attachments/assets/1c921b5e-5fd9-4e6e-bd7c-17d926fdce77)
+
 
 ![image](https://github.com/user-attachments/assets/a4279a36-4d78-4f21-9d17-744fb5702605)
 
